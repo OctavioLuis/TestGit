@@ -3,9 +3,6 @@ aejemplo1 remoto
 aejemplo1 remoto
 aejemplo1 remoto
 Hola desde Git
-<<<<<<< HEAD
-Modificando el mismo archivo 
-=======
 ejemplo remoto
 actual
->>>>>>> origin/master
+End
